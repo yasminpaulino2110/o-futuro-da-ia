@@ -17,33 +17,35 @@ alternativas: [
         afirmacao: "O aumento da capacidade de análise e tomada de decisões da IA pode tornar possível uma autonomia muito maior, mas isso também levanta questões sobre até onde devemos permitir que máquinas decidam por nós."
     }
 ]
-        ]
+        
     },
     {
-        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
-        alternativas: [
-            {
-                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
-                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
-            },
-            {
-                texto: "Ler livros didáticos e de autores conhecidos.",
-                afirmacao: "Para quem tem interessede começar na leitura não seria ideal começar diretamente pelos clássicos já que a leitura dos mesmos pode ser mais dificil dificultando assim a criação do habito da leitura."
-            }
-        ]
+        enunciado: "Como o avanço da IA poderá transformar a relação entre seres humanos, trabalho, criatividade e conhecimento?",
+alternativas: [
+    {
+        texto: "A IA poderá facilitar o trabalho humano e ampliar a criatividade, permitindo que as pessoas utilizem ferramentas inteligentes para desenvolver novas ideias e adquirir conhecimento de maneira mais rápida",
+        afirmacao: "A inteligência artificial pode se tornar uma importante ferramenta de apoio aos seres humanos, transformando profissões e formas de criação sem necessariamente eliminar a importância da criatividade e do conhecimento humano."
     },
     {
-        enunciado: "Atualmente vemos um grande aumentos nos valores dos livros físicos, oque dificulta a aquisição dos mesmos, a leitura digital vem se popularizou entre os leitores nos ultimos anos em parte pelos preços mais acessiveis, então seria ela uma alternativa viavel aos livros físicos?",
-        alternativas: [
-            {
-                texto: "Provavelmente, já que iria possibilitar uma maior aquisição por parte da população.",
-                afirmacao: "Já para quem não  tem condições de adquirir livros físicos os livros online são uma otima opção, pois permite a aquisição dos mesmos por um preço muito menor ou até mesmo gratuitamente, o que sem duvidas pode abrir grandes portas para esses leitores."
-            },
-            {
-                texto: "Não teria grande importância já que grande parte da população continuaria adquirindo livros físicos apesar dos preços.",
-                afirmacao: "Apesar do consumo de livros físicos ainda ser maioria os livros oline permitem que pessoas que não podem adquirir livros físicos tenham acesso a leitura, podendo gerar grandes oportunidades para esses leitores."
-            }
-        ]
+        texto: "A IA poderá substituir grande parte do trabalho e da produção criativa realizada atualmente pelos seres humanos, tornando necessário repensar o valor do trabalho e a forma como o conhecimento é produzido",
+        afirmacao: "Se a inteligência artificial conseguir realizar tarefas cada vez mais complexas, a sociedade poderá enfrentar mudanças profundas no mercado de trabalho e na própria maneira como enxergamos criatividade, conhecimento e realização profissional."
+    }
+]
+        
+    },
+    {
+       enunciado: "Se a inteligência artificial alcançar capacidades superiores às humanas em diversas áreas, como a sociedade deverá lidar com os riscos, limites éticos e possíveis consequências desse cenário?",
+alternativas: [
+    {
+        texto: "A sociedade deverá estabelecer limites e regras para o desenvolvimento da IA, garantindo que seu uso seja supervisionado e que seus avanços não coloquem em risco a segurança e os direitos das pessoas",
+        afirmacao: "O desenvolvimento de inteligências artificiais cada vez mais poderosas exige responsabilidade e regulamentação, para que os benefícios dessa tecnologia sejam aproveitados sem ignorar seus possíveis riscos."
+    },
+    {
+        texto: "A evolução da IA não deveria ser limitada excessivamente, pois impedir seu desenvolvimento poderia atrasar descobertas e soluções importantes para problemas da humanidade",
+        afirmacao: "Embora existam riscos no avanço da inteligência artificial, restringir excessivamente seu desenvolvimento também pode impedir avanços científicos e tecnológicos capazes de beneficiar a humanidade."
+    }
+],
+        
     },
 ];
 
