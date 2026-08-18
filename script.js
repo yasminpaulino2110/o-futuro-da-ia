@@ -6,16 +6,17 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
-        alternativas: [
-            {
-                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
-                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
-            },
-            {
-                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
-                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
-            }
+        enunciado: "Até que ponto a inteligência artificial poderá desenvolver autonomia e tomar decisões sem a intervenção humana?",
+alternativas: [
+    {
+        texto: "A IA poderá alcançar um alto nível de autonomia, mas decisões importantes ainda devem contar com a supervisão humana, principalmente quando envolverem questões éticas e que possam afetar a sociedade",
+        afirmacao: "Mesmo que a inteligência artificial se torne cada vez mais autônoma, a supervisão humana continuará sendo fundamental para garantir que suas decisões estejam de acordo com princípios éticos e com os interesses da sociedade."
+    },
+    {
+        texto: "A IA poderá tomar decisões completamente sozinha no futuro, já que sistemas inteligentes podem analisar uma quantidade de informações muito maior e encontrar soluções mais rapidamente que os seres humanos",
+        afirmacao: "O aumento da capacidade de análise e tomada de decisões da IA pode tornar possível uma autonomia muito maior, mas isso também levanta questões sobre até onde devemos permitir que máquinas decidam por nós."
+    }
+]
         ]
     },
     {
